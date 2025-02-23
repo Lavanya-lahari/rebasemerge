@@ -2,7 +2,7 @@ def is_palindrome(words):
     return word == word[::-1]
 
 # Input from user
-word = input("Enter a word: ")
+word = input("Enter a word: Lavanya ")
 
 # Check if the word is a palindrome
 if is_palindrome(word):

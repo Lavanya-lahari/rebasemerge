@@ -1,4 +1,4 @@
-def is_palindrome(word):
+def is_palindrome(words):
     return word == word[::-1]
 
 # Input from user
